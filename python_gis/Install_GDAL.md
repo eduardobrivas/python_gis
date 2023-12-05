@@ -1,6 +1,6 @@
 # Instalar GDAL para Windows
 
-
+### Ativar .venv
 
 ```powershell
 Windows PowerShell
